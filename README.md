@@ -1,2 +1,2 @@
 # E-Wallet
-Created E-Wallet Project using basic of PF
+Created E-Wallet Project using C++ and Python
